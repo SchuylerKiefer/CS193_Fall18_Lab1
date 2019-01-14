@@ -1,4 +1,4 @@
-## Skyler Kiefer's firs CS 193 Lab
+## Skyler Kiefer's first CS 193 Lab
 
 
 
